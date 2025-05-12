@@ -1,4 +1,4 @@
-import User from '@/models/user';
+import User from '@/models';
 import Bank from '@/models/bank';
 import { BankAccountId, UserId } from '@/types/Common';
 import GlobalRegistry from '@/services/GlobalRegistry';
