@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import User from '@/models';
+import User from '@/models/user';
 import Bank from '@/models/bank';
 import BankAccount from '@/models/bank-account';
 import TransactionService from '@/services/TransactionService';
